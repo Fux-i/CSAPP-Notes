@@ -1,4 +1,4 @@
-set args -q -i phase_2
+set args -q -i phase_3
 
 b getbuf
 
